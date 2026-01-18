@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>star academic Tuition</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: #f4f6f8;
+        }
+        header {
+            background: #2b6cb0;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        section {
+            padding: 20px;
+            margin: 15px;
+            background: white;
+            border-radius: 8px;
+        }
+        h2 {
+            color: #2b6cb0;
+        }
+        .btn {
+            display: inline-block;
+            padding: 12px 20px;
+            background: #25D366;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            margin-top: 10px;
+            font-weight: bold;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            font-size: 14px;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Bright Future Tuition</h1>
+    <p>Classes 6–10 | Maths • Science • English</p>
+</header>
+
+<section>
+    <h2>About Us</h2>
+    <p>We provide quality tuition with personal attention to help students achieve academic excellence.</p>
+</section>
+
+<section>
+    <h2>Courses Offered</h2>
+    <ul>
+        <li>Class 6–8: Maths & Science</li>
+        <li>Class 9–10: Maths, Physics, Chemistry</li>
+        <li>Board Exam Preparation</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Timings</h2>
+    <p>Monday – Saturday<br>5:00 PM – 8:00 PM</p>
+</section>
+
+<section>
+    <h2>Contact</h2>
+    <p>📍 Location: Your Area Name</p>
+    <a class="btn" href="https://wa.me/91XXXXXXXXXX">Chat on WhatsApp</a>
+</section>
+
+<footer>
+    © 2026 star academic tuition
+</footer>
+
+</body>
+</html>
